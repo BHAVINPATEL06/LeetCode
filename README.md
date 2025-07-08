@@ -47,9 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2691-count-vowel-strings-in-ranges](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
