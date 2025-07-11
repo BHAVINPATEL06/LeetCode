@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0518-coin-change-ii) |
+| [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1022-unique-paths-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1022-unique-paths-iii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Backtracking
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0516-longest-palindromic-subsequence](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0518-coin-change-ii) |
+| [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 ## Graph
 |  |
 | ------- |
@@ -79,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+## Trie
+|  |
+| ------- |
+| [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
