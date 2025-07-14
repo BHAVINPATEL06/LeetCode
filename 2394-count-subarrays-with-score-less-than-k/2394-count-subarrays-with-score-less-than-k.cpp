@@ -1,7 +1,6 @@
 class Solution {
 public:
 
-// Tere bhai ne khud se solve kiya hai
     long long countSubarrays(vector<int>& nums, long long k) {
         int left = 0;
         int right = 0;
