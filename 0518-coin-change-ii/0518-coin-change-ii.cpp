@@ -1,6 +1,5 @@
 class Solution {
 public:
-    // Tere Bhai ne khud se kiya hai....
 
     // int solve(vector<int>&coins,int amount,int index){
     //     if(index == coins.size())return 0;
