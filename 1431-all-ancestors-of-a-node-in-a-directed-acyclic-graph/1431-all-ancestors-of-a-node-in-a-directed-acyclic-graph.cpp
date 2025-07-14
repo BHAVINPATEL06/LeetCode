@@ -1,7 +1,6 @@
 class Solution {
 public:
-    // Tere bhai ne khud se kiya hai
-    // Vishwas nhi hoga liken haa kiya hai
+
     void solve(int src,unordered_map<int,vector<int>>&adjList,vector<int>&output,vector<bool>&visited){
         visited[src] = true;
 
