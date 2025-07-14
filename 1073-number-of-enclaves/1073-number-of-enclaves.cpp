@@ -1,5 +1,7 @@
 class Solution {
 public:
+// Tere bhai ne khud se kiya hai
+// Bc dimag ka bhosda ho gya bc
 
     void solve(vector<vector<int>>&grid,int i,int j){
         if(i == grid.size() || j == grid[0].size() || i<0 || j<0)return;
@@ -7,10 +9,19 @@ public:
 
         grid[i][j] = 0;
 
-        solve(grid,i+1,j);
-        solve(grid,i,j+1);
-        solve(grid,i-1,j);
-        solve(grid,i,j-1);
+        // solve(grid,i+1,j);   // Pahele aise kar rha tha but isko maine change kiya toh ho gya
+        // solve(grid,i,j+1);
+        // solve(grid,i-1,j);
+        // solve(grid,i,j-1);
+
+        int dirs[4][2] = {{1,0},{-1,0},{0,1},{0,-1}}; // Ye bhi tere bhai ne khud se likha hai
+
+        for(int d = 0;d<4;d++){
+            int newI = i+dirs[d][0];
+            int newJ = j+dirs[d][1];
+
+            solve(grid,newI,newJ);
+        }
 
         return;
     }
