@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0744-network-delay-time](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0744-network-delay-time) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0744-network-delay-time) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Sorting
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0744-network-delay-time) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
