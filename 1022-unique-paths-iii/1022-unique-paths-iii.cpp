@@ -1,7 +1,6 @@
 class Solution {
 public:
-    // tere bhai ne khud se solve kiya hai 
-    // Vishwas nhi hoga likin kiya hai
+
 
     bool isSafe(vector<vector<int>>&grid){
         for(int i = 0;i<grid.size();i++){
