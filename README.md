@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0518-coin-change-ii) |
 | [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1022-unique-paths-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1073-number-of-enclaves](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-unique-paths-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1073-number-of-enclaves](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0744-network-delay-time](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0744-network-delay-time) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Breadth-First Search
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0744-network-delay-time) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Sorting
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
