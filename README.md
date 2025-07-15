@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0744-network-delay-time](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0744-network-delay-time) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
