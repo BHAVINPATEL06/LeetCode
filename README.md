@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0043-multiply-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0043-multiply-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0043-multiply-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Topological Sort
 |  |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1073-number-of-enclaves](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1073-number-of-enclaves) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
