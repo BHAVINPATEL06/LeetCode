@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Tree
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
 | ------- |
