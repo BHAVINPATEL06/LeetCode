@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3396-valid-word](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3396-valid-word) |
+| [3931-process-string-with-special-operations-i](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -183,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0043-multiply-strings) |
+| [3931-process-string-with-special-operations-i](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
