@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1428-jump-game-iii) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
