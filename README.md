@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0213-house-robber-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0518-coin-change-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0070-climbing-stairs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Topological Sort
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0812-rotate-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
