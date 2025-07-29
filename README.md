@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3396-valid-word](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3396-valid-word) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0070-climbing-stairs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Topological Sort
 |  |
