@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0518-coin-change-ii) |
 | [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1022-unique-paths-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0518-coin-change-ii) |
 | [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Graph
