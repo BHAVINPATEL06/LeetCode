@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0045-jump-game-ii) |
+| [0078-subsets](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0120-triangle) |
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1022-unique-paths-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0078-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1022-unique-paths-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
