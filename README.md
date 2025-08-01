@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0120-triangle) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1022-unique-paths-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0079-word-search) |
 | [1022-unique-paths-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Hash Table
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0043-multiply-strings) |
+| [0079-word-search](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0383-ransom-note) |
 | [0516-longest-palindromic-subsequence](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
