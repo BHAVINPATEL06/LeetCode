@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0045-jump-game-ii) |
+| [0118-pascals-triangle](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0213-house-robber-ii) |
 | [0455-assign-cookies](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0455-assign-cookies) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0494-target-sum) |
