@@ -216,10 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0070-climbing-stairs) |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
