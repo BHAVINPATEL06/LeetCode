@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0118-pascals-triangle) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0494-target-sum) |
