@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0518-coin-change-ii) |
+| [0792-binary-search](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0890-lemonade-change](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0890-lemonade-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
