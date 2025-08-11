@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Depth-First Search
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0744-network-delay-time) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1254-deepest-leaves-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0744-network-delay-time) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1254-deepest-leaves-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1428-jump-game-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## String
 |  |
 | ------- |
