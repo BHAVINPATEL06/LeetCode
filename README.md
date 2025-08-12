@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Greedy
 |  |
 | ------- |
