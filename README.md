@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0518-coin-change-ii) |
+| [0739-daily-temperatures](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0890-lemonade-change](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0890-lemonade-change) |
@@ -313,4 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0292-nim-game) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
