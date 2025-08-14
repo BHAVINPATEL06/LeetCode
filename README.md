@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0518-coin-change-ii) |
+| [0576-out-of-boundary-paths](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
