@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1761-count-sorted-vowel-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1761-count-sorted-vowel-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Topological Sort
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0062-unique-paths) |
+| [1761-count-sorted-vowel-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 ## Enumeration
 |  |
 | ------- |
