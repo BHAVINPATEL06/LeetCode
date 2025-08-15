@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0078-subsets) |
+| [0342-power-of-four](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0342-power-of-four) |
 ## Segment Tree
 |  |
 | ------- |
