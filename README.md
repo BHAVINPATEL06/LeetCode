@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0890-lemonade-change) |
+| [1448-maximum-69-number](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1448-maximum-69-number) |
 | [1761-count-sorted-vowel-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2032-largest-odd-number-in-string) |
