@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0205-isomorphic-strings) |
