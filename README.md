@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0455-assign-cookies) |
 | [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0744-network-delay-time](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0744-network-delay-time) |
 ## Shortest Path
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0295-find-median-from-data-stream](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -352,9 +355,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
