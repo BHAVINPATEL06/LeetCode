@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-
+// Tere bhai ne khud se kiya hai
     int solve(vector<int>&nums,int k){
         int left = 0;
         int right = 0;
