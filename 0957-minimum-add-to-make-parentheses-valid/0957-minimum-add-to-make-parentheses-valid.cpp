@@ -1,5 +1,8 @@
 class Solution {
 public:
+// Tere bhai ne khud se kiya hai
+// Easily ho gya
+
     int minAddToMakeValid(string s) {
         stack<char>st;
 
