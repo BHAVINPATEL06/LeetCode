@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0200-number-of-islands) |
 | [1022-unique-paths-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1073-number-of-enclaves) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
 |  |
 | ------- |
