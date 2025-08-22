@@ -383,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0099-recover-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
