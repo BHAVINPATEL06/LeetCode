@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1428-jump-game-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1761-count-sorted-vowel-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
