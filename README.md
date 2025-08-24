@@ -393,5 +393,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0620-not-boring-movies) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
