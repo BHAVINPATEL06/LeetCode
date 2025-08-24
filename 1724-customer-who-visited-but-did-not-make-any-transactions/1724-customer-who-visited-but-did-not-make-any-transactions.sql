@@ -1,4 +1,7 @@
 # Write your MySQL query statement below
+-- Tere bhai ne khud se kiya hai
+-- Vishwas nhi hoga liken khud se kiya hai
+
 SELECT V.customer_id,COUNT(V.visit_id) AS count_no_trans
 FROM Visits AS V
 LEFT JOIN Transactions AS T
