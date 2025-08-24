@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0182-duplicate-emails) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-with-at-least-5-students](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0620-not-boring-movies) |
