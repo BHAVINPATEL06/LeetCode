@@ -390,5 +390,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0182-duplicate-emails) |
+| [0596-classes-with-at-least-5-students](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/BHAVINPATEL06/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
