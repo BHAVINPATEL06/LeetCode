@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0213-house-robber-ii) |
 | [0455-assign-cookies](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0792-binary-search) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1022-unique-paths-iii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1073-number-of-enclaves) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0043-multiply-strings) |
+| [0498-diagonal-traverse](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0498-diagonal-traverse) |
 | [3790-fruits-into-baskets-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3931-process-string-with-special-operations-i](https://github.com/BHAVINPATEL06/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Eulerian Circuit
