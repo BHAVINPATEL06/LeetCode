@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0279-perfect-squares) |
 | [0744-network-delay-time](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0744-network-delay-time) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/BHAVINPATEL06/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0518-coin-change-ii) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0342-power-of-four) |
