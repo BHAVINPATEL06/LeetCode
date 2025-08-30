@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0045-jump-game-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0200-number-of-islands) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0383-ransom-note) |
 | [0808-number-of-matching-subsequences](https://github.com/BHAVINPATEL06/LeetCode/tree/master/0808-number-of-matching-subsequences) |
