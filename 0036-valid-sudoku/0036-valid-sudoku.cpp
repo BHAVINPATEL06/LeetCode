@@ -1,6 +1,7 @@
 class Solution {
 public:
-
+    // Gaurang Code
+    
     bool isValidSudoku(vector<vector<char>>& board) {
         unordered_set<int>row[9];
         unordered_set<int>col[9];
